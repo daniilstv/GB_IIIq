@@ -1,0 +1,1 @@
+{"ok": true, "result": [{"update_id": 336077591, "message": {"message_id": 3, "from": {"id": 61157288, "is_bot": false, "first_name": "Daniil", "last_name": "Dyachenko", "username": "daniilstv", "language_code": "ru"}, "chat": {"id": 61157288, "first_name": "Daniil", "last_name": "Dyachenko", "username": "daniilstv", "type": "private"}, "date": 1571473339, "text": "test"}}]}
