@@ -24,5 +24,5 @@ class HhruSpider(scrapy.Spider):
         salary = response.css('div.vacancy-title p.vacancy-salary::text').extract_first()
         print(name, salary)
 
-        # yield JobparserItem(name=name, salary=salary) #Формируем item
+        yield JobparserItem(name=name, salary=salary) #Формируем item
 
